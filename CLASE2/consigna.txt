@@ -16,3 +16,5 @@ crear 4 páginas (index.html, login.html, registro.html, contacto.html)
     <a href="contacto.html">
         <img src="ruta" width="100px" height="100px">
     </a>
+
+    <a href="index.html"><button type="button">Enviar</button></a>
